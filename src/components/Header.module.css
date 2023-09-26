@@ -1,0 +1,7 @@
+.header {
+  background-color: var(--gray-700);
+}
+
+.header img {
+  padding: 76px;
+}
